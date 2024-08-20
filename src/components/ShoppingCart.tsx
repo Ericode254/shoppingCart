@@ -35,4 +35,5 @@ const ShoppingCart = ({ isOpen }: Props) => {
   );
 };
 
+
 export default ShoppingCart;
